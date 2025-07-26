@@ -44,9 +44,9 @@ This Grocery Sales Dashboard is an interactive Excel-based reporting tool that p
 - Make data-driven decisions to improve sales strategy.
 
 📂 **Files Included**
-Grocery_Sales_Dashboard.xlsx → Interactive Excel dashboard
+Grocery_Sales_Dashboard.xlsx → <a href ="https://github.com/prasadmahajan06/Grocery-Sales-Dashboard/blob/main/GrocerySalesDashboard.xlsx">Download Here</a>
 
-📊 Dashboard Dashboard can be seen- Here
+📊 Dashboard Dashboard can be seen- <a href ="https://github.com/prasadmahajan06/Grocery-Sales-Dashboard/blob/main/Grocery%20Sales%20Dashboard.png">Here</a>
 
 🙋‍♂️ Author
 Created by: Prasad Mahajan
